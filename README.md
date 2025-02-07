@@ -112,3 +112,6 @@ span을 사용하여 몇 개의 행을 차지할지 지정할 수 있다.
 ```css
  grid-column: span 4; /*요소가 현재 위치에서 4개의 열을 차지하도록 설정*/
 ```
+
+## Reference
+https://www.youtube.com/watch?v=rWFAR1mql8Q
