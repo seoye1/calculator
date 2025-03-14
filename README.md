@@ -1,8 +1,10 @@
 ## The challenge
 
-바닐라 js로 만드는 계산기
-
 ![Image](https://github.com/user-attachments/assets/c7728f2a-90b9-4fe9-a5b6-4160ec60a4b2)
+
+## Built With
+- html, css
+- Grid Layout
 
 ## What I learned
 
