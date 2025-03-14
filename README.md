@@ -4,7 +4,7 @@
 
 ## Built With
 - html, css
-- Grid Layout
+- Flexbox, Grid Layout
 
 ## What I learned
 
